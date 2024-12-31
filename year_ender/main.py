@@ -43,7 +43,7 @@ with tabs[0]:
     Thank you, my palagi, for everything. For being my safe space, my joy, and my love. Excited na ako for year 2025, but I know next year will be tough for us since ako g-graduate na, and ikaw malapit na rin mag-intern. Pero alam ko naman,
     kayang kaya natin 'to--- we have each other's hands e, 'diba?
 
-    Happy new year, my love! 
+    Happy 5th month and happy new year, my love! 
 
     """
 
