@@ -38,7 +38,7 @@ with tabs[0]:
     Before this year ends, I find myself reflecting on all the moments we've shared, the laughter that echoed between us, and of course; the love that continues to grow stronger every day.
     I am so grateful that I started and ended 2024 with the person I love and care the most. Although I know, it is not as smooth as we expect it to be; but look at where we are now, we are close to ending this year together.
     Sa totoo lang, sobrang proud ako sa’yo. Sa lahat ng na-achieve mo, sa lahat ng effort mo, at sa pagiging ikaw lang. Hanna, you inspire me to be better, and you make everything feel worth it.
-    As we end this year, gusto ko lang sabihin na I’m so excited for what’s ahead for us. Alam ko na basta magkasama tayo, kaya natin lahat. Lagi akong nandito para sa’yo—cheerleader mo, kakampi mo, at lagi mong taga-sunod.
+    As we end this year, gusto ko lang sabihin na I’m so excited for what’s ahead for us. I know, basta magkasama tayo; kaya natin lahat. Nandito lang ako palagi para sa’yo— alam mo 'yan.
 
     Thank you, my palagi, for everything. For being my safe space, my joy, and my love. Excited na ako for year 2025, but I know next year will be tough for us since ako g-graduate na, and ikaw malapit na rin mag-intern. Pero alam ko naman,
     kayang kaya natin 'to--- we have each other's hands e, 'diba?
@@ -53,7 +53,7 @@ with tabs[0]:
 # Gallery Tab
 with tabs[1]:
     # Set the path to the directory containing the images
-    image_directory = "images"
+    image_directory = "/images"
 
     # Get all image file paths from the directory, sorted by name
     image_files = sorted(
