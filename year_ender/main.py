@@ -3,8 +3,8 @@ import os
 
 # Set page configuration
 st.set_page_config(
-    page_title="Year-End Interactive Gallery",
-    page_icon="🎉",
+    page_title="JosHanna 2024 Recap",
+    page_icon="💞",
     layout="wide"
 )
 
