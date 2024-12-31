@@ -53,7 +53,7 @@ with tabs[0]:
 # Gallery Tab
 with tabs[1]:
     # Set the path to the directory containing the images
-    image_directory = "images"
+    image_directory = "year_ender/images"
 
     # Get all image file paths from the directory, sorted by name
     image_files = sorted(
